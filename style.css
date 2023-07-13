@@ -36,6 +36,9 @@ nav {
     top: 0%;
     transform: translate(-2%, -100%);
 }
+a {
+    text-decoration: none;
+}
 a#nav {
     color: grey;
     font-size: 13px;
